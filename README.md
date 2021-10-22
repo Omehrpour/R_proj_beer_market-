@@ -1,4 +1,4 @@
-# R_proj_beer_market-
+
 # Beers and Breweries in The United States
 
 ## Introduction
